@@ -7,18 +7,18 @@ My curiosity always drives me to learn something new, and programming it's the p
 
 ### 🎓 Currently learning
 
--JavaScript
--ReactJs
--Python
+- JavaScript
+- ReactJs
+- Python
 
 I choose these languages because they are versatile. I'll keep studying them until i find the area that I identify with.
 
 ### ✔️ Goals for 2020
 
--Learn fundamentals of progamming
--Become skilled in JavaScript
--Learn fundamentals of Python
--Complete a bootcamp of programming
+- Learn fundamentals of progamming
+- Become skilled in JavaScript
+- Learn fundamentals of Python
+- Complete a bootcamp of programming
 
 ### 💡 Curiosities 
 
